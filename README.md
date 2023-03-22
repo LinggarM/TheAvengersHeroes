@@ -1,7 +1,7 @@
 # TheAvengersHeroes
 
 ## About The Project
-This is an android application that made for the final project submission for **"Belajar Membuat Aplikasi Android Untuk Pemula" (Android for Beginners)** course on Dicoding (2021). This application shows a list of Heroes that become the members of **The Avengers** along with the information for each heroes.
+This is an android application that made for the final project submission of **"Belajar Membuat Aplikasi Android Untuk Pemula" (Android for Beginners)** course on Dicoding (2021). This application shows a list of Heroes that become the members of **The Avengers** along with the information for each heroes.
 
 This project is almost similar with my other project **[IndonesianCollege](https://github.com/LinggarM/IndonesianCollege)** except this project is using **Kotlin** as the programming language and use more libraries.
 
